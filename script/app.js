@@ -1,4 +1,4 @@
-const KEY = "5c249454cbdf848d0cc4eabeffcc8086";
+const KEY = "9256103473dbd67df82ab198423d594f";
 // _ = helper functions
 function _parseMillisecondsIntoReadableTime(timestamp) {
 	//Get hours from milliseconds

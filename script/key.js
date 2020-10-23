@@ -1,1 +1,1 @@
-const key = "http://api.openweathermap.org/data/2.5/forecast?q=kortrijk,BE&appid=9256103473dbd67df82ab198423d594f&units=metric&lang=nl"
+const key = "9256103473dbd67df82ab198423d594f"
